@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Project Conceptualization: 
+## `Project Conceptualization: `
 Conceptualized the idea of creating a Netflix clone project using React and Tailwind CSS, aimed at replicating the user experience and functionality of the popular streaming platform.
 
 ## `Technology Selection: `
